@@ -1,4 +1,4 @@
-# 获取表单数据的发热的v
+# 获取表单数据
 
 - jquery提供的$('form').serialize()方法来获取表单中的所有数据
   - $('form').serialize();根据表单各项的name属性获取
